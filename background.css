@@ -1,0 +1,16 @@
+div{
+background-attachment: fixed;
+background-image: url("ramadan.jpg");
+background-position: right top ;
+background-attachment: fixed;
+color: green;
+background-size: 600px 400px;
+background-repeat: no-repeat;
+background-color: pink;
+
+}
+h2{
+    background-color: gray;
+    color: aquamarine;
+    display: inline;
+}
